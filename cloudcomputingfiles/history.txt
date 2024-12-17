@@ -1,0 +1,257 @@
+275  cd /
+  276  git init
+  277  cd home
+  278  ls
+  279  administrator
+  280  skacas
+  281  cd administrator
+  282  cd home
+  283  cd skacas
+  284  cd Desktop
+  285  git_ repos
+  286  mkdir git_repos
+  287  cd git_repos
+  288  mkdir project-1
+  289  mkdir project-2
+  290  mkdir project-3
+  291  mkdir project-4
+  292  mkdir project-5
+  293  mkdir project-6
+  294  cd project-1
+  295  touch project1.txt
+  296  mkdir project-2
+  297  cd ..
+  298  cd project-2
+  299  mkdir project-2
+  300  cd project-2
+  301  touch project2.txt
+  302  cd ..
+  303  mkdir project-3
+  304  cd projecr-3
+  305  cd project-3
+  306  touch project3.txt
+  307  cd ..
+  308  mkdir project-4
+  309  cd project-4
+  310  touch project4.txt
+  311  cd ..
+  312  mkdir project-5
+  313  cd project-5
+  314  touch project5.txt
+  315  cd ..
+  316  project-6
+  317  cd project-6
+  318  mkdir project-6
+  319  cd project-6
+  320  touch project6.txt
+  321  cd ..
+  322  mkdir project-7
+  323  cd project-7
+  324  touch project7.txt
+  325  cd ..
+  326  mkdir project-8
+  327  cd project-8
+  328  touch project8.txt
+  329  cd ..
+  330  mkdir project-9
+  331  cd project-9
+  332  touch project9.txt
+  333  cd ..
+  334  mkdir project-10
+  335  cd project-10
+  336  touch project10
+  337  touch project10.txt
+  338  cd ..
+  339  mkdir project-11
+  340  cd project-11
+  341  touch project11.txt
+  342  cd ..
+  343  mkdir project-12
+  344  cd project-12
+  345  touch project12.txt
+  346  cd ..
+  347  cd project-1
+  348  git init
+  349  cd ..
+  350  cd project-2
+  351  git init
+  352  cd ..
+  353  project-3
+  354  cd project-3
+  355  git init
+  356  cd ..
+  357  cd project-4
+  358  git init
+  359  cd ..
+  360  cd project-5
+  361  git init
+  362  cd ..
+  363  cd project-6
+  364  git init
+  365  cd ..
+  366  cd project-7
+  367  git init
+  368  cd ..
+  369  project-8
+  370  cd project-8
+  371  git init
+  372  cd ..
+  373  cd project-9
+  374  git init
+  375  cd ..
+  376  cd project-10
+  377  git init
+  378  cd ..
+  379  cd project-11
+  380  git init
+  381  cd ..
+  382  project-12
+  383  cd project-12
+  384  cit init
+  385  git init
+  386  cd ..
+  387  cd ..
+  388  mkdir agaaa
+  389  cd git-repos
+  390  cd git_repos
+  391  mv -r git_repos agaa
+  392  cd ..
+  393  pwd
+  394  mv /home/skacas/Desktop/git_repos /home/skacas/Desktop
+  395  mv /home/skacas/Desktop/git_repos /home/skacas/Desktop/agaa
+  396  mv aaa agalya
+  397  mv agaa agalya
+  398  git status
+  399  mv project-1 app.py
+  400  cd git_repos
+  401  cd agalya
+  402  cd project-1
+  403  cd agaa
+  404  cd project-1 
+  405  cd ..
+  406  mv project-1 app.py
+  407  git status
+  408  cd ..
+  409  cd ..
+  410  git status
+  411  mv agalya git_repos
+  412  cd git_repos
+  413  ls -al
+  414  mv agaa .git
+  415  cd project-2
+  416  cd .git
+  417  cd project-2
+  418  touch config.txt
+  419  cat /etc/passwd
+  420  chmod 766 config.txt
+  421  chmod 004 config.txt
+  422  ls -l
+  423  cd ..
+  424  cd ..
+  425  cd ..
+  426  mkdir config
+  427  pwd
+  428  cp /home/skacas/Desktop/git_repos/ /home/skacas/Desktop/config
+  429  cp -r  /home/skacas/Desktop/git_repos/ /home/skacas/Desktop/config
+  430  cd config
+  431  ls
+  432  cd git_repos
+  433  ls
+  434  cd project-1
+  435  cd ..
+  436  cd ..
+  437  cd git_repos
+  438  rm app.py
+  439  cd project-1
+  440  cd .git
+  441  rm project-1
+  442  cd app.py
+  443  rm project1.txt
+  444  cd ..
+  445  git rm -r "project-2"
+  446  rm -r "project-2"
+  447  rm -r "project-3"
+  448  nano agal.sh
+  449  nano agal.sh
+  450  nano agal.sh
+  451  history
+  452  ./ agal.sh
+  453  ./ agal.sg
+  454  ./ agal.sh
+  455  cat agal.sh
+  456  cat ./ agal.sh
+  457  git --version
+  458  cat /etc/passwd
+  459  ll git_repos
+  460  ll project-4
+  461  cd project-2
+  462  ll config.txt
+  463  cd ..
+  464  cd project-7
+  465  ll project7.txt
+  466  cd ..
+  467  cd project-2
+  468  ll config.txt
+  469  cd ..
+  470  ls
+  471  cat > project-4
+  472  cat >project4.txt
+  473  cp project.txt > content.txt
+  474  cp project4.txt > content.txt
+  475  cd project-4
+  476  touch content.txt
+  477  cp project4.txt  content.txt
+  478  cat > project4.txt
+  479  pwd
+  480  cp -r /home/skacas/Desktop/git_repos/.git/project-4/project4.txt /home/skacas/git_repos/.git/project-4/content.txt
+  481  cat project4.txt > content.txt
+  482  vim agal.txt
+  483  ps
+  484  top
+  485  nano agal.txt
+  486  y
+  487  nano.aga.txt
+  488  nano aga.txt
+  489  cat aga.txt
+  490  nano aga.sh
+  491  chmod 777 aga.sh
+  492  ./ aga.sh
+  493  cd ..
+  494  cd ..
+  495  cd ..
+  496  ./ aga.sh
+  497  ./agaa.sh
+  498  nano ag.sh
+  499  history
+  500  cd /
+  501  cd home
+  502  ls
+  503  cd skacas
+  504  cd Desktop
+  505  cd git_repos
+  506  cd git
+  507  cd.git
+  508  cd ..
+  509  cd config
+  510  cd .git
+  511  cd.git
+  512  cd .git
+  513  cd ..
+  514  cd .git
+  515  cd git_repod
+  516  cd git-repos
+  517  cd git_repos
+  518  cd .git
+  519  git ls
+  520  ls
+  521  git ls -files
+  522  cd project-9
+  523  cat > project9.txt
+  524  cat project9.txt
+  525  grep "hii user" project9.txt
+  526  grep -i "WELCOME TO CLOUD COMPUTING" project9.txt
+  527  grep -e "hii" -e "welcome" project9.txt
+  528  history
+skacas@administrator-Lenovo-V130-14IKB:~/Desktop/git_repos/.git/project-9$ 
+
+
